@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450142502397",
+    "project_id": "smartkart-37e6d",
+    "storage_bucket": "smartkart-37e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450142502397:android:c0da342cf342bea303ad94",
+        "android_client_info": {
+          "package_name": "com.smartkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450142502397-uppl9d4svp4qtqa9opni0vvar4suh0b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdIgfT8c1Cp1NclZpRYQTYUu6ZIigmUxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450142502397-uppl9d4svp4qtqa9opni0vvar4suh0b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
